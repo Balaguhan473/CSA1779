@@ -1,6 +1,6 @@
 print("BALAGUHAN")
 print("192124151")
-print("tictactoe")
+print("A alg")
 import heapq
 
 class Node:
@@ -64,7 +64,7 @@ class AStar:
             current = current.parent
         return path
 
-
+# Example usage
 graph = {
     'A': {'B': 1, 'C': 4},
     'B': {'A': 1, 'C': 2, 'D': 5},
