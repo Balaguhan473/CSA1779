@@ -1,4 +1,4 @@
-X, MIN = 1000, -1000
+MAX, MIN = 1000, -1000
  
 def minimax(depth, nodeIndex, maximizingPlayer,
             values, alpha, beta):
