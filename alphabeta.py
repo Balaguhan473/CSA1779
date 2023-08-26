@@ -1,3 +1,6 @@
+print("BALAGUHAN")
+print("192124151")
+print("salesman")
 MAX, MIN = 1000, -1000
  
 def minimax(depth, nodeIndex, maximizingPlayer,
